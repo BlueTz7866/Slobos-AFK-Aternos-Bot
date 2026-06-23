@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bluetz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "LifeSteal-ZVMG.aternos.me",
-    "port": 40162,
+    "ip": "Illegal_Smp-li3k.aternos.me",
+    "port": 23919,
     "version": "",
     "try-creative": false
   },
